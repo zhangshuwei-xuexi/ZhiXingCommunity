@@ -1,0 +1,14 @@
+com\wenlei\community\KafkaProducer.class
+com\wenlei\community\RedisTests$1.class
+com\wenlei\community\SensitiveTests.class
+com\wenlei\community\ElasticSearchTests.class
+com\wenlei\community\RedisTests.class
+com\wenlei\community\MailTests.class
+com\wenlei\community\QuartzTests.class
+com\wenlei\community\RedisTests$2.class
+com\wenlei\community\RedisTests$3.class
+com\wenlei\community\KafkaConsumer.class
+com\wenlei\community\LogerTest.class
+com\wenlei\community\MapperTests.class
+com\wenlei\community\KafkaTests.class
+com\wenlei\community\CommunityApplicationTests.class
